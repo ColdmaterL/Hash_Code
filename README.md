@@ -1,2 +1,2 @@
 # Hash_Code
-Um projeto usando hashcode e equals
+Um projeto usando hashcode e equals.
